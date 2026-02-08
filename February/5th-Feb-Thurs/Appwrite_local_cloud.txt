@@ -1,0 +1,13 @@
+Local (Self-Hosted) :-
+
+System Level - You can modify the source code or Docker config.
+Storage - Native S3/Azure Blob support via .env.
+Integrations - Functions + Manual Config.
+Auth Providers - Unlimited custom OAuth setup.
+
+Appwrite Cloud :-
+
+System Level - Fixed infrastructure (Managed).
+Storage - Handled by Appwrite (Managed).
+Integrations - One-click Templates + Functions.
+Auth Providers - Pre-configured (Google, GitHub, Microsoft, etc.)
