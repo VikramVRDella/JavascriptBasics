@@ -1,0 +1,10 @@
+Models by Companies
+
+Amazon   - Nova
+Google   - Gemini
+XAi      - Grok
+Alibaba  - Qwen
+Meta     - Llama
+Antropic - Claude Sonnet
+
+Mixtral and Mistral are some more models

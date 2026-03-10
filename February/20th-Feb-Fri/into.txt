@@ -1,0 +1,6 @@
+Langchain
+
+Langchain is like a toolbox or framework that makes it easy to
+	Connect your LLM (like OpenAI, Anthropic) to Outside data sources(Google Search, SQL, PDF, APIs)
+	Add Memory (So it remembers what happened earlier)
+	Build Chains (step by step workflows -> eg., get data -> analyze -> return answer)

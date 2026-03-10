@@ -1,0 +1,7 @@
+sentiment,review_text
+positive,"Go until jurong point, crazy.. Available only in bugis n great world la e buffet... Cine there got amore wat..."
+positive,"Ok lar... Joking wif u oni..."
+negative,"Free entry in 2 a wkly comp to win FA Cup final tkts 21st May 2025. Text FA to 87121 to receive entry question(std txt rate)T&C's apply 08452810075 for details"
+positive,"U dun say so early hor... U can be called into ur office already at the same time ur present boss is calling u back."
+positive,"Nah I don't think he goes to usf, he lives around here though"
+negative,"FreeMsg Hey there darling it's been 3 weeks now and no word back! I'm lonely lv u all the time. Only $300 a week. Call me back by the weekend."

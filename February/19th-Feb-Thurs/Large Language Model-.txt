@@ -1,0 +1,17 @@
+Large Language Model:-
+
+Models 
+	That has been trained on the specific data. 
+
+Language Model
+	The model that can be learned with large amount of data and uses many languages.
+	Advanced AI Systems designed to understand and generate human language.
+
+Features of LLM:
+	Architecture : Based on neural network, particularly the Transformer Model
+	Training : Trained on extensive datasets, learning grammar, context, and facts.
+
+Capabilities of LLM:
+	Text-Generation : Creates coherent and relevant text.
+	Context : Recognizes nuances, idioms and cultural references.
+	Conversational-Skills: Engages in natural, human like dialogs.

@@ -1,0 +1,10 @@
+Transformers: 
+	There are two main components
+	- Encoders
+	- Decoders
+
+Encoder:
+	The Encoder basically understands the input and encoding them.
+
+Decoder: 
+	The Encoder values goes to the Decoders and the Answers to the user.

@@ -1,0 +1,6 @@
+Origination of GPT:
+	The Encoders and the Decoders can be used as the separate as well 
+	so the scientist creates the first encoder model which is called as BERT
+
+	And then the Decoder models are generated and such as GPT models, Grok model,
+Gemini Models.

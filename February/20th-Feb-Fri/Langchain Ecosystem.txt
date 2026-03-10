@@ -1,0 +1,14 @@
+Langchain Ecosystem
+
+Langchain
+LangGraph
+LangSmith
+
+Langflow
+
+Purposes:-
+Langchain : The Core library to build AI Apps
+LangGraph : The tool that helps build stateful agent workflows
+LangSmith : Debugging and Monitoring Tool
+
+Langchain Framework = the base need

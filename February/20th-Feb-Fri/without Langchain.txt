@@ -1,0 +1,2 @@
+without Langchain = raw AI brain only
+with Langchain = AI Brain + Tools + Memory + Workflow

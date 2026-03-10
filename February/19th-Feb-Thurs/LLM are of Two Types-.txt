@@ -1,0 +1,25 @@
+LLM are of Two Types:-
+API 
+Open Source
+
+Problems on API:-
+We don't know main models sets on the World
+
+API types:-
+Public API
+Private API
+
+Public API:-
+OpenAI - GPT models
+XAi - Grok 
+Antropic - Claude Sonnet Models
+
+Private API:
+AWS Bedrock
+Claude Sonnet Models
+LLama Model
+Nova Pro
+
+Open Source:-
+Hugging Face
+Ollama (Open Source Models)

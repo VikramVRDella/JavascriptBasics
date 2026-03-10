@@ -1,0 +1,28 @@
+Python is a high-level, general-purpose programming language known for its readability and simple syntax. Created by Guido van Rossum in the late 1980s, it is a versatile, object-oriented language that is used across a wide range of applications, from web development to data science and artificial intelligence. 
+Wikipedia
+Wikipedia
+ +3
+Key Features
+Readability: Python's design philosophy emphasizes code readability, often using English keywords where other languages use punctuation. It uses indentation to define code blocks, which makes the code's visual structure represent its semantic structure.
+Versatility & General-Purpose: It can be used for many different tasks and supports multiple programming paradigms (procedural, object-oriented, functional).
+Interpreted Language: Python code is processed at runtime by an interpreter, which allows for a fast edit-test-debug cycle and quick prototyping.
+Extensive Standard Library & Third-Party Packages: Python comes with a broad standard library, and the community has contributed hundreds of thousands of additional packages available through the Python Package Index (PyPI).
+Dynamically Typed: Programmers don't need to declare variable types explicitly when writing code; Python determines them at runtime.
+Open Source: Python is developed under an OSI-approved open source license, making it freely usable and distributable, even for commercial use. 
+Python.org
+Python.org
+ +7
+Common Applications
+Python is used by major tech companies like Google, Netflix, and NASA. Its applications include: 
+GeeksforGeeks
+GeeksforGeeks
+ +1
+Data Science & Machine Learning: Python is a staple in data analysis, machine learning (ML), and AI, with powerful libraries like Pandas, NumPy, and TensorFlow.
+Web Development: It's used for backend web development with popular frameworks such as Django and Flask.
+Automation & Scripting: Its simple syntax makes it ideal for writing scripts to automate repetitive tasks and for DevOps practices.
+Software Development: Python is used as a support language for software developers, for build control, testing, and project management. 
+Python.org
+Python.org
+ +3
+Learning Python
+Python is a beginner-friendly language widely recommended as a first programming language. Numerous free tutorials and courses are available from sources like Google for Developers, W3Schools, and Coursera. 

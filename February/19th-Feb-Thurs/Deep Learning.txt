@@ -1,0 +1,8 @@
+Deep Learning
+
+ANN - Artificial Neural Networks (Solves on Tabular Data)
+CNN - Convolutional Neural Networks (Videos and Images like can be Solved)
+RNN - Recurrent Neural Networks [Sequential Data like conversational data]
+
+
+	NN's > Architecture > Sequence to Sequence 

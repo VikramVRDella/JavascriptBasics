@@ -1,0 +1,13 @@
+LangGraph
+	Stateful Multi AI Agentic Application
+
+AI Agents ==> They communicate each other and used to solve the complex task.
+
+Components in LangGraph
+	1. Tasks
+	2. Nodes
+	3. Edges
+	4. Graph
+
+The output of one task can be given as a input of other tasks
+The Persistent Memory can be accessed by the other the tasks
